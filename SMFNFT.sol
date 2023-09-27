@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at Etherscan.io on 2022-12-19
-*/
-
 // SPDX-License-Identifier: MIT
 // File: @openzeppelin/contracts/utils/structs/EnumerableSet.sol
 
